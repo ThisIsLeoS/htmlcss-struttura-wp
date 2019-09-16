@@ -19,7 +19,7 @@ body {
 
 header {
   height: 9%;
-  margin-top: 2%;
+  border-top: 2%;
   background-color: white;
 }
 
@@ -46,6 +46,6 @@ main:after {
 
 footer {
   height: 7%;
-  margin-bottom: 2%;
+  border-bottom: 2%;
   background-color: white;
 }

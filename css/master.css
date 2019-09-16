@@ -14,5 +14,16 @@ body {
   width: 60%;
   height: 1080px;
   margin: auto;
+  background-color: green;
+}
+
+header {
+  height: 9%;
+  margin-top: 2%;
   background-color: white;
+}
+
+nav {
+  height: 2%;
+  background-color: grey;
 }

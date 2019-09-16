@@ -29,7 +29,6 @@ nav {
 main {
   height: 82%;
   margin-top: 2%;
-  background-color: pink;
 }
 
 main:after {
@@ -50,6 +49,11 @@ main:after {
   margin-left: 4%;
   margin-right: 4%;
   background-color: green;
+}
+
+.text-widget {
+  margin-bottom: 15%;
+  background-color: pink;
 }
 
 footer {

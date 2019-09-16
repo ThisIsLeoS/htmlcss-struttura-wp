@@ -40,7 +40,6 @@ main:after {
 .lateral-col {
   float: left;
   width: 20%;
-  background-color: blue;
 }
 
 #center-col {
@@ -48,16 +47,19 @@ main:after {
   width: 52%;
   margin-left: 4%;
   margin-right: 4%;
-  background-color: green;
 }
 
 .text-widget {
   margin-bottom: 15%;
-  background-color: pink;
 }
 
 footer {
   height: 7%;
   margin-bottom: 2%;
+}
+
+/* background colors */
+
+.white-back {
   background-color: white;
 }

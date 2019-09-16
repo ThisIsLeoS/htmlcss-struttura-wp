@@ -7,14 +7,12 @@
 
 html {
   background-image: url(../img/background.jpg);
-  background-size: cover;
 }
 
 body {
   width: 60%;
   height: 1080px;
   margin: auto;
-  background-color: green;
 }
 
 header {
@@ -30,6 +28,7 @@ nav {
 
 main {
   height: 82%;
+  margin-top: 2%;
   background-color: pink;
 }
 
@@ -40,8 +39,17 @@ main:after {
 }
 
 .lateral-col {
+  float: left;
   width: 20%;
   background-color: blue;
+}
+
+#center-col {
+  float: left;
+  width: 52%;
+  margin-left: 4%;
+  margin-right: 4%;
+  background-color: green;
 }
 
 footer {

@@ -28,6 +28,11 @@ nav {
   background-color: grey;
 }
 
+main {
+  height: 82%;
+  background-color: pink;
+}
+
 footer {
   height: 7%;
   margin-bottom: 2%;
